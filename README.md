@@ -3,7 +3,7 @@
 ## Installation
 
 ```sh
-# Install Truffle globally and run `truffle unbox`
+# Install Truffle globally`
 $ npm install -g truffle
 ```
 Start the react dev server.
