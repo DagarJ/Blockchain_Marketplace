@@ -9,10 +9,12 @@ $ npm install -g truffle
 Start the react dev server.
 
 ```sh
-open terminal and run Ganache-cli
+open terminal and run Ganache-cli 
 open another terminal and run below commands:
+$ cd truffle
+$ truffle migrate
 $ cd client
-$ npm install
+$ npm i -f
 $ npm start
   Starting the development server...
   Ensure that Metamask extension is enabled in browser
