@@ -81,7 +81,7 @@ const SellModal=(setOpenModal)=>
               color="secondary"
               data-dismiss="modal"
               type="button"
-              onClick={() => {debugger;
+              onClick={() => {
                 setOpenModal(false)}}
             >
               Close

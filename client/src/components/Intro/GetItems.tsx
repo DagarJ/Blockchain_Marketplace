@@ -38,7 +38,6 @@ const GetItems = () => {
   };
 
   const buyProduct = async (name) => {
-    debugger;
     const value = await contract.methods
       .buyProduct(name)
       .send({ from: accounts[0] });

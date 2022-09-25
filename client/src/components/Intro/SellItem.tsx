@@ -89,7 +89,6 @@ const SellItem = () => {
               data-dismiss="modal"
               type="button"
               onClick={() => {
-                debugger;
                 setOpenModal(false);
               }}
             >
